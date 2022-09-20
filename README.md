@@ -1,11 +1,11 @@
 # Python_GEP_ThesisComponent
 
-##GEP - Gene Expression Programming - Predictor 
+## GEP - Gene Expression Programming - Predictor 
 
 Programa, Algoritmo, que realiza expresiones provenientes de estructuras de árboles complejos. Las variables se definen empezando con “a” y terminando con “!” en el intermedio estaría el número serializado.
 Dentro de la tesis será el predictor, pero aún falta.
 
-###PARÁMETROS:
+### PARÁMETROS:
 Cantidad de generaciones - GENERATIONS - número entero (int)
 Tamaño de población - POPULATIONSIZE - número entero (int)
 
